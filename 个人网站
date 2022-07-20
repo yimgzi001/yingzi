@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="styles/style.css" rel="stylesheet">
+
+	<meta charset="utf-8" 
+        name="viewport" 
+        content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<title>影子个人网站</title>
+  </head>
+  <body>	
+	<h1>你好呀我是影子</h1>
+  <p id="2">我正在尝试写web前端<br />但我好菜</p>
+	<p>让<strong>世界</strong>更美好</p>  
+  <p id=1>来和我一起加油吧</p>
+   
+
+  </body>
+</html>
